@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "ceba82d6-02d8-8fce-dcb4-ba30b13ad80b",
+  "instructors": {
+    "content": [
+      "7771e456-7c73-8c37-19b0-dd3f2552d0af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "44c87787-840b-d0d9-4d9e-541e4e3d9877",
+    "website": "21h-105-american-classics-spring-2006"
+  },
+  "course_title": "American Classics",
+  "course_description": "This subject is devoted to reading and discussing basic American historical texts that are often cited but often remain unread, understanding their meaning, and assessing their continuing significance in American culture. Since it is a \"Communications Intensive\" subject, 21H.105 is also dedicated to improving students' capacities to write and speak well. It requires a substantial amount of writing, participation in discussions, and individual presentations to the class.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.105",
+  "course_image_thumbnail": {
+    "content": "b2faaa2c-8d60-9846-a911-745a8220f231",
+    "website": "21h-105-american-classics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "84257db1-5401-426f-a93e-54ac07f656a1",
+  "site_short_id": "21h.105-spring-2006",
+  "site_url_path": "courses/21h-105-american-classics-spring-2006",
+  "title": "Course Metadata"
+}
